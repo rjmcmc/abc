@@ -1,4 +1,4 @@
-
+## Test for Sungchan Kang
 ## ----, echo=FALSE, cache=FALSE-------------------------------------------
 library(knitr)
 opts_chunk$set(warning=FALSE, message=FALSE)
